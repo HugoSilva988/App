@@ -1,0 +1,6 @@
+{
+  "name": "Mestre Chat",
+  "description": "Uma plataforma completa, segura e moderna de comunicação privada local-first, com chats criptografados, chamadas de voz/vídeo e comunidades.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
